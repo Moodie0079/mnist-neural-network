@@ -1,0 +1,7 @@
+mnist-dataset/
+mnist
+main
+a.out
+*.dSYM/
+venv/
+.DS_Store
